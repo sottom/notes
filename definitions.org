@@ -1,5 +1,5 @@
 * Definitions
 ** Compile vs. Transpile
-   Compiling :: Moving code from human readable down to machine code (C# to an executable file).
-   Transpiling :: Moving code from one high level language to another (TypeScript to Javascript).
+   - /Compiling/ : Moving code from human readable down to machine code (C# to an executable file).
+   - /Transpiling/ : Moving code from one high level language to another (TypeScript to Javascript).
 
