@@ -1,3 +1,4 @@
 * C# Notes
 ** Compilation Process
-   [[file:~/notes/img/C-sharp_compilation_process.png]]
+   [[http://www.c-sharpcorner.com/blogs/compilation-process-of-a-c-sharp-program1][C# diagram]]
+   This website gives a great overview of how C# is compiled down to machine code and executed.
